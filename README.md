@@ -23,6 +23,7 @@ I still tutor math and science on the side. If you are interested in anything I'
 
 ### Pythagoras Theorem
 - [Worksheet 7](worksheets/question_set_7.pdf) ⚙️
+- [Worksheet 22](worksheets/question_set_22.pdf) 🌟 _Interesting Colour Calculations_
 
 ### Function Graphing / Solving
 - [Worksheet 8](worksheets/question_set_8.pdf) 🌟 _Income Modelling with Functions_
