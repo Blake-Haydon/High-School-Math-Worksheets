@@ -31,6 +31,7 @@ I still tutor math and science on the side. If you are interested in anything I'
 - [Worksheet 10](worksheets/question_set_10.pdf) ⚙️
 - [Worksheet 11](worksheets/question_set_11.pdf) ⚙️
 - [Worksheet 12](worksheets/question_set_12.pdf) 🌟 _Skate-park Function_
+- [Worksheet 23](worksheets/question_set_23.pdf) 🌟 _Composite and Inverse Functions Factory_
 
 ### Graph Theory
 - [Worksheet 13](worksheets/question_set_13.pdf) 🌟 _A touch of Neural Networks_
